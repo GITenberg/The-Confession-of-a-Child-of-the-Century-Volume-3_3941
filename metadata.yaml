@@ -1,5 +1,5 @@
 _repo: The-Confession-of-a-Child-of-the-Century-Volume-3_3941
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'France -- Fiction'
 - !lcsh 'French fiction -- Translations into English'
 - !lcc 'PQ'
+- GITenberg
 title: The Confession of a Child of the Century — Volume 3
 url: http://www.gutenberg.org/ebooks/3941
